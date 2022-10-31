@@ -12,7 +12,7 @@ body {
   height: 100vh;
   display: grid;
   place-items: center;
-  background-image: url("https://previews.123rf.com/images/goce/goce0901/goce090100008/4126084-weather-forecast-background-illustration.jpg?fj=1");
+  background-image: url("./cloud-blue-sky.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
